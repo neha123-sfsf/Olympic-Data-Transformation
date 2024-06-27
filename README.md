@@ -1,9 +1,9 @@
 # Olympic-Data-Transformation
 Developed and implemented data extraction and transformation pipelines on Databricks data warehouse using PySpark to enable advanced data analysis.
 
-Importing Libraries
-Mounting Azure Data Lake Storage
-Reading Data
-Displaying Data
-Data Transformation
-Writing Transformed Data
+1) Importing Libraries
+2) Mounting Azure Data Lake Storage
+3) Reading Data
+4) Displaying Data
+5) Data Transformation
+6) Writing Transformed Data
